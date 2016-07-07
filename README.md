@@ -2,7 +2,7 @@
 
 > "You can call a function with fewer arguments than it expects. It returns a function that takes the remaining arguments."
 
-- Demo: https://petrosh.github.io/petrosh/ramda
+- Demo: https://petrosh.github.io/ramda
 - More info: http://petrosh.it/2016/07/06/ramda-anything-else-would-be-a-bold-face-lie/
 - [Ramda 0.21.0 docs](http://ramdajs.com/0.21.0/docs/)
 - [RequireJS 2.2.0](http://requirejs.org/docs/start.html)
