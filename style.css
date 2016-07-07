@@ -1,0 +1,38 @@
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #555;
+  padding: 0;
+}
+
+.content{
+	max-width: 50em;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+header{
+	background: #345d9f;
+	color: #fff;
+	padding: 2em;
+}
+
+header h1{
+	font-weight: 200;
+	margin: 0;
+	padding: 0;
+}
+
+header p{
+	color: #B7BFD6;
+}
+
+header p a{
+	color: white;
+}
